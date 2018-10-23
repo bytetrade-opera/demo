@@ -11,5 +11,7 @@ int main() {
 
 	cout << "git merge --no-ff ---" << endl;
 
+	cout << "cache" << endl;
+
 	return 0;
 }
