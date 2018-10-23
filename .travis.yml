@@ -1,0 +1,8 @@
+language: cpp
+script: 
+  - pwd
+  - bash build.sh
+
+cache:
+  directories:
+    - $HOME/.cache_bytetrade
