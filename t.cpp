@@ -16,6 +16,8 @@ int main() {
 	cout << "change master" << endl;
 
 	cout << "haha" << endl;
+	
+	cout << "H" << endl;
 
 	return 0;
 }
