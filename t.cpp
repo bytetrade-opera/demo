@@ -15,5 +15,7 @@ int main() {
 
 	cout << "modify in fork" << endl;
 
+	cout << "multi - test - 2" << endl;
+
 	return 0;
 }
