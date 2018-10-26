@@ -14,6 +14,16 @@ int main() {
 	cout << "cache" << endl;
 
 	cout << "modify in fork" << endl;
+  
+	cout << "change master" << endl;
+
+	cout << "haha" << endl;
+	
+	cout << "H" << endl;
+
+	cout << "feature/one" << endl;
+
+	cout << "1" << endl;
 
 	return 0;
 }
