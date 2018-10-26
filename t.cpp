@@ -15,5 +15,7 @@ int main() {
 
 	cout << "change master" << endl;
 
+	cout << "haha" << endl;
+
 	return 0;
 }
