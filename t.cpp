@@ -24,6 +24,8 @@ int main() {
 	cout << "feature/one" << endl;
 
 	cout << "1" << endl;
+	
+	cout << "multi - opera - 1" << endl;
 
 	return 0;
 }
