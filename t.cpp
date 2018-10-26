@@ -13,5 +13,7 @@ int main() {
 
 	cout << "cache" << endl;
 
+	cout << "change master" << endl;
+
 	return 0;
 }
