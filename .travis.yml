@@ -1,7 +1,7 @@
 language: cpp
 script: 
   - pwd
-  - bash build.sh
+  - bash scripts/build.sh
 
 cache:
   directories:
