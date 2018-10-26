@@ -1,7 +1,7 @@
 cd $HOME/.cache_bytetrade
 if [[ ! -f a ]]; then
     echo "huhu"
-    echo "haha" >> a
+    echo "hahahaha" >> a
 fi
 cd -
 
