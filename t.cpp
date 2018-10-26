@@ -13,5 +13,7 @@ int main() {
 
 	cout << "cache" << endl;
 
+	cout << "modify in fork" << endl;
+
 	return 0;
 }
