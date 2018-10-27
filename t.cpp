@@ -21,6 +21,8 @@ int main() {
 	
 	cout << "H" << endl;
 
+	cout << "master" << endl;
+
 	cout << "feature/one" << endl;
 
 	cout << "1" << endl;
