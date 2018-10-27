@@ -19,4 +19,4 @@ else
     cd -
 fi
 
-g++ t.cpp 
+make
