@@ -21,5 +21,7 @@ int main() {
 	
 	cout << "H" << endl;
 
+	cout << "master" << endl;
+
 	return 0;
 }
