@@ -21,11 +21,15 @@ int main() {
 	
 	cout << "H" << endl;
 
+	cout << "master" << endl;
+
 	cout << "feature/one" << endl;
 
 	cout << "1" << endl;
 	
 	cout << "multi - opera - 1" << endl;
+
+	cout << "multi - test - 2" << endl;
 
 	return 0;
 }
