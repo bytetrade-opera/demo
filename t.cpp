@@ -27,5 +27,7 @@ int main() {
 
 	cout << "1" << endl;
 
+	cout << "multi - test - 2" << endl;
+
 	return 0;
 }
