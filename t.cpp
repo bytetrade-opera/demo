@@ -23,5 +23,9 @@ int main() {
 
 	cout << "master" << endl;
 
+	cout << "feature/one" << endl;
+
+	cout << "1" << endl;
+
 	return 0;
 }
