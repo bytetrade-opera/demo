@@ -14,6 +14,18 @@ int main() {
 	cout << "cache" << endl;
 
 	cout << "modify in fork" << endl;
+  
+	cout << "change master" << endl;
+
+	cout << "haha" << endl;
+	
+	cout << "H" << endl;
+
+	cout << "master" << endl;
+
+	cout << "feature/one" << endl;
+
+	cout << "1" << endl;
 
 	cout << "multi - test - 2" << endl;
 
