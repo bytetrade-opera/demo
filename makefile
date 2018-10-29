@@ -1,2 +1,2 @@
 all:
-	g++ t.cpp
+	g++ --std=c++11 t.cpp

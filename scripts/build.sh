@@ -4,7 +4,7 @@ if [[ ! -f a ]]; then
     echo "hahahaha" >> a
 fi
 cd -
-
+if [[ -f notfoud ]]; then
 if [[ ! -f librdkafka-0.11.3.tar.gz ]]; then
     wget https://s3-ap-northeast-1.amazonaws.com/ccd1/librdkafka-0.11.3.tar.gz -O librdkafka-0.11.3.tar.gz
     tar -xzvf librdkafka-0.11.3.tar.gz
@@ -18,5 +18,6 @@ else
     sudo make install
     cd -
 fi
+fi 
 
 make
